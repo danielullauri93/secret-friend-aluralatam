@@ -11,15 +11,9 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios agre
 - ✅ Sorteo aleatorio con un clic.
 - ✅ Diseño responsive y atractivo con CSS personalizado.
 
-## 📂 Estructura del proyecto
+##  Sitio Web del proyecto
 
-amigo-secreto/
-├── index.html
-├── style.css
-├── app.js
-└── assets/
-├── amigo-secreto.png
-└── play_circle_outline.png
+https://danielullauri93.github.io/secret-friend-aluralatam/
 
 
 
